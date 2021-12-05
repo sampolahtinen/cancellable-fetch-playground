@@ -1,2 +1,2 @@
 # cancellable-fetch-playground
-Created with CodeSandbox
+Sandboxed environment to try out cancelling fetching when user changes the value of an input field.
